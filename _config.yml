@@ -1,4 +1,4 @@
-title: "Bennie's notes"
+title: "Bnotes"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
 
@@ -28,3 +28,6 @@ search:
   # Enable or disable the search button that appears in the bottom right corner of every page
   # Supports true or false (default)
   button: false
+
+# Set a path/url to a logo that will be displayed instead of the title
+# logo: "/assets/images/just-the-docs.png"
