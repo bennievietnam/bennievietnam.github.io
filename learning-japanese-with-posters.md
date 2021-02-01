@@ -77,4 +77,13 @@ Tổ hợp quản lý tòa nhà New Shimbashi.
 組合ーくみあいーTổ Hợp (組合ーkumiai và 総合ーsougo khác nhau như nào?)
 ![Elevator Maintenance](./assets/img/notice-elevator-maintenance.jpeg)
 
+**Poster 5:** Hướng dẫn xếp hàng (có lẽ) ở Kitchen Origin\
+お客様へご案内\
+Thông báo tới quý khách\
+お会計お待ちのお客様はこちらに一例でお並びくださいませ。\
+Khách đợi thanh toán xin vui lòng xếp thành một hàng ở đây.\
+順番にお呼び致します。\
+Chúng tôi sẽ gọi lần lượt.\
+お並ーおなみーTịnh - lắng đọng,ở đây là đám đông hỗn độn "lắng đọng" thành một hàng ^^\
+順番にーじゅんばんーThuận Phiên - lần lượt
 ![??? :D](./assets/img/notice-queuing.jpeg)
