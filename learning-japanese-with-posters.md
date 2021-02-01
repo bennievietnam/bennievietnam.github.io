@@ -13,7 +13,7 @@ Bộ nông lâm thủy sản, Lệnh Hòa năm thứ 2, về việc ủy thác p
 のうりんすいさんしょ　ー　かかるじむのうち　ー　しょくじけんはっこういたくじむ\
 プリミアム付食事券\
 プリミアムつき　ー　liên quan tới premium\
-見本　ー　みほん　ー　sample\
+見本　ー　みほん　ー　phiên bản dùng để ngăm chứng không xài được.\
 加盟店　ー　かめいてん　ー　Gia Minh Điếm (những quán ăn có tham gia chương trình này)\
 食事券使えます　ー　có thể xài được phiếu ăn này\
 ![Go To Eat キャンペーン](./assets/img/go-to-eat-campaign.jpeg)
