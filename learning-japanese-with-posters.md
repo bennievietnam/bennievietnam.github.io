@@ -31,6 +31,7 @@ Xem sự khác nhau giữa 保全、保護、維持 ở [đây](https://www.eic.
 
 お買い物の際はマイバッグのご利用にご協力お願いいたします。\
 Lúc mua đồ, xin vui lòng dùng túi My Bag.
+![レジ袋](./assets/img/notice-using-plastic-bags.jpeg)
 
 **Poster 3:** Hóa dơn tính tiền ở Kitchen Origin\
 オリジン東秀（株）百合ヶ丘店\
@@ -58,10 +59,22 @@ Giá tiền của đồ ăn sẵn bán theo cân có hiển thị việc khấu 
 惣菜ーそうざいーVật Thái - đồ ăn nấu từ trước rồi đem ra bán\
 容器の重さーようきのおもさ - cân nặng của hộp đựng thức ăn\
 差し引いーさしひい　- Trái Dẫn - khấu trừ\
-![レジ袋](./assets/img/notice-using-plastic-bags.jpeg)
-
 ![Origin Kitchen](./assets/img/bill-origin-kitchen.jpeg)
 
+**Poster 4:** Thông báo bảo trì thang máy ở tòa nhà New Shimbashi\
+お知らせ　ー Thông báo\
+深夜から、翌早朝まで、9階通路床清掃の為、通行できません。\
+Vào ngày 13 và 14 tháng 1, từ đêm khuya tới sáng hôm sau, lối đi ở tầng 9 sẽ được lau sàn và không thể đi được.
+ご迷惑をおかけしますが、よろしくお願いいたします。\
+Chúng tôi xin lỗi về sự bất tiện này.\
+ニュー新橋ビル管理組合\
+Tổ hợp quản lý tòa nhà New Shimbashi.
+
+深夜ーしんやーThâm Dạ - đêm khuya\
+翌ーよくーDực - hôm sau\
+早朝ーそうちょーTảo Triều - sáng sớm\
+=> từ sáng đến khuya: soucho kara, shinya made\
+組合ーくみあいーTổ Hợp (組合ーkumiai và 総合ーsougo khác nhau như nào?)
 ![Elevator Maintenance](./assets/img/notice-elevator-maintenance.jpeg)
 
 ![??? :D](./assets/img/notice-queuing.jpeg)
