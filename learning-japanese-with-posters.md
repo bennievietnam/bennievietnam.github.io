@@ -8,7 +8,7 @@ nav_order: 1
 # Learning Japanese with posters
 
 **Poster 1:** Thông báo về việc bán phiếu ăn ở Ginza Lion\
-農林水産省　令和2年度　Go To Eatキャンペーン　に係る事務のうち　食事券発行委託事務\
+農林水産省　令和2年度　Go To Eatキャンペーン　に係る事業のうち　食事券発行委託事業\
 Bộ nông lâm thủy sản, Lệnh Hòa năm thứ 2, về việc ủy thác phát hành phiếu ăn, liên quan đến chương trình Go To Eat:\
 のうりんすいさんしょ　ー　かかるじむのうち　ー　しょくじけんはっこういたくじむ\
 プリミアム付食事券\
