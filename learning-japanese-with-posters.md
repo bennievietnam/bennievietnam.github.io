@@ -7,7 +7,7 @@ nav_order: 1
 
 # Learning Japanese with posters
 
-![Go To Eat キャンペーン](./assets/img/go-to-eat-campaign.jpeg){width=50}
+![Go To Eat キャンペーン](./assets/img/go-to-eat-campaign.jpeg)
 
 Text in image:\
 農林水産省　令和2年度　Go To Eatキャンペーン　に係る事務のうち　食事券発行委託事務\
